@@ -1,1 +1,2 @@
-# template-docs
+# [[%Asset@name%]] Documentation
+---
