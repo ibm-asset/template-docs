@@ -1,5 +1,5 @@
 # [[%Asset@name%]] Documentation
----
+
 
 To launch the docs, go to this url:
 https://pages.github.ibm.com/ibm-asset/[[%Asset@id%]]-docs/
