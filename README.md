@@ -7,9 +7,13 @@ https://pages.github.ibm.com/ibm-asset/[[%Asset@id%]]-docs/
 ## Install MkDocs
 
 1. Install / Update `pip`
-   - run `python get-pip.py` or
-   Else to upgrade an existing version on your machine.
-   - run `pip install --upgrade pip` 
-2. Run `pip install mkdocs`.
+   - `python get-pip.py` to install or
+   - `pip install --upgrade pip` to upgrade
+2. Run `pip install mkdocs`
+
+## Reference for Markdown
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 
 
